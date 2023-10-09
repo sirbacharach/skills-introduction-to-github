@@ -1,0 +1,10 @@
+pwd
+ls
+cd
+mkdir
+echo
+cat
+cp
+mv
+rm
+man
