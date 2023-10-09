@@ -1,0 +1,10 @@
+head
+tail
+less
+more
+sort
+grep
+which
+chmod
+history
+clear
